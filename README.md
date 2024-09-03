@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **"Piggy" project**
 
-- 🌱 I’m currently learning **Godot**
+- 🌱 I’m currently learning **React native**
 
 - 👨‍💻 All of my projects are available at [my github repository](https://github.com/SaaS-28?tab=repositories) or [my website](https://saas-28.github.io/)
 
