@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center;">
 
-- 🔭 I’m currently working on **"Piggy" project**
+- 🔭 I’m currently working on **Learning Python**
 
 - 🌱 I’m currently learning **React native**
 
