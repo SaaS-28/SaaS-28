@@ -2,9 +2,9 @@
 
 <div style="display: flex; justify-content: center;">
 
-- 🔭 I’m currently working on **Learning Python**
+- 🔭 I’m currently working on **Various mini projects**
 
-- 🌱 I’m currently learning **React native**
+- 🌱 I’m currently learning **React native** and **Python**
 
 - 👨‍💻 All of my projects are available at [my github repository](https://github.com/SaaS-28?tab=repositories) or [my website](https://saas-28.github.io/)
 
