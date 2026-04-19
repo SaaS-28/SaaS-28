@@ -2,7 +2,7 @@
 
 <div style="display: flex; justify-content: center;">
 
-- 🔭 I’m currently working on **Various mini projects**
+- 🔭 I’m currently working on **The Final Chamber** - Check it on [**Steam**](https://store.steampowered.com/app/4515440/The_Final_Chamber/?l=italian)
 
 - 🌱 I’m currently learning **React native** and **Python**
 
